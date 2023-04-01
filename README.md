@@ -30,4 +30,6 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 * After our data is in good shape, we will do some exploratory data analysis to build our intuitions.
 * Finally, we will build a machine learning model that can predict if an individual's application for a credit card will be accepted.<br>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oxmp/credit-card-approval/blob/main/credit_card_approval.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/p-p-p-p/credit-card-approval/blob/main/credit_card_approval.ipynb)
+
